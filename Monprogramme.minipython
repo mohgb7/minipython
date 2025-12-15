@@ -1,0 +1,13 @@
+int x, y;
+x = 5;
+y = 10;
+b = x < y;
+if (b) {
+  print("x est plus petit que y");
+} else {
+  print("x est plus grand que y");
+}
+while (x < y) {
+  x = x + 1;
+  print(x);
+}
