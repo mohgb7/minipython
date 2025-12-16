@@ -97,7 +97,8 @@ minipython/
 │── README.md
 │── LICENSE
 
-pour exécuter : il faut tapez sur terminal python minipython_copiler.py
+pour exécuter : il faut tapez sur terminal:
+python main.py Monprogramme.minipython
 
 🎨 Logo MiniPython
 
