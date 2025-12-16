@@ -113,7 +113,12 @@ Jaune : pédagogie
 
 👥 Contributeurs
 
-Ougherb Mohammed – 4ème ING GL – Université Abou Bekr Belkaid (Tlemcen)
+Ougherb Mohammed
+Matallah Abdessamed
+Kara Slimane Rayane
+Ichou Omar
+
+ – 4ème ING GL – Université Abou Bekr Belkaid (Tlemcen)
 
 📜 Licence
 
