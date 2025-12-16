@@ -97,6 +97,8 @@ minipython/
 │── README.md
 │── LICENSE
 
+pour exécuter : il faut tapez sur terminal python minipython_copiler.py
+
 🎨 Logo MiniPython
 
 Créé avec : Canva / Figma / Inkscape
